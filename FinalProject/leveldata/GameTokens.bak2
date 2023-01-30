@@ -1,0 +1,13 @@
+<GameTokens>
+ <GameTokensLibrary>
+  <LevelLibrary Name="Level">
+   <GameToken Name="BranchPack" Type="Int" Value="0" LocalOnly="1"/>
+   <GameToken Name="CampFire" Type="Int" Value="0" LocalOnly="1"/>
+   <GameToken Name="Shelter" Type="Int" Value="0" LocalOnly="1"/>
+   <GameToken Name="MetalPack" Type="Int" Value="0" LocalOnly="1"/>
+   <GameToken Name="WoodPack" Type="Int" Value="0" LocalOnly="1"/>
+   <GameToken Name="ClothPack" Type="Int" Value="0" LocalOnly="1"/>
+   <GameToken Name="ShelterPack" Type="Int" Value="0" LocalOnly="1"/>
+  </LevelLibrary>
+ </GameTokensLibrary>
+</GameTokens>
